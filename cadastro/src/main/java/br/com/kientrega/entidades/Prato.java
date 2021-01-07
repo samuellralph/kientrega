@@ -1,8 +1,6 @@
 package br.com.kientrega.entidades;
 
-import io.quarkus.hibernate.orm.panache.PanacheEntity;
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
-import jdk.jfr.consumer.RecordedStackTrace;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 123,
+    "nome": "Novo proprietario",
+    "pratos": [],
+    "proprietario": "ID do Keycloak"
+  },
+  {
+    "id": 234,
+    "nome": "Novo proprietario",
+    "pratos": [],
+    "proprietario": "ID do Keycloak"
+  }
+]
