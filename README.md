@@ -1,2 +1,2 @@
 # kientrega
-Quarkus Project - Pedidos de comida
+Quarkus Project Microservices - Pedidos de comida
